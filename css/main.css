@@ -1,0 +1,67 @@
+.p-inline{
+ 	display: inline;
+}
+
+.space{ /*Espacio para todas las clases*/
+	margin-bottom: 10px;
+}
+
+.space2{ /*Espacio para todas las clases*/
+	margin-bottom: 30px;
+}
+
+/*Aweita*/
+
+.aweita {
+    border: 1px solid #A4A4A4;
+    height: 420px;
+    padding:5%;
+}
+
+.aweita-logo{
+	margin-left: 20%;
+}
+
+.aweita-img{
+	width: 100%;
+}
+
+.color-purple{
+	color:purple;
+}
+
+/*Fotos Destacadas*/
+
+.img-destacadas{
+	width: 100%;
+}
+
+/*Especiales*/
+
+.img-especiales{
+	background-image: url("../image/img_especiales_aside.jpg") ; 
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 200px;
+}
+
+.white-box{
+	background-color:white;
+	width: 80%;
+	height: 50px;
+	opacity: 0.7;
+	margin-left: 10%;
+	margin-top: -35%;
+}
+
+.text-especiales{
+	padding-top: 8%;
+	font-weight: bolder;
+}
+
+/*Carlincaturas*/
+
+.text-carlincaturas{
+	color: red;
+	font-weight: bolder;
+}
